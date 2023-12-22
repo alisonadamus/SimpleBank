@@ -103,7 +103,6 @@ public class Display {
         System.out.println("[5] Купити товар");
         System.out.println("[6] Вийти з аккаунту та показати історію транзакцій");
 
-        scanner.nextInt();
         switch (scanner.nextLine()) {
             case "1":
                 accountsSystem(person, account);
@@ -164,7 +163,6 @@ public class Display {
             System.out.println("[" + (i + 1) + "] " + cards.get(i) + currency);
         }
 
-        scanner.nextLine();
         int check = scanner.nextInt();
         boolean checked = false;
         for (int i = 0; i < cards.size(); i++) {
@@ -215,7 +213,6 @@ public class Display {
                     System.out.println("[" + (j + 1) + "] " + cards.get(j) + currency);
                 }
 
-                scanner.nextInt();
                 int checkCard = scanner.nextInt();
                 boolean checkedCard = false;
                 for (int j = 0; j < cards.size(); j++) {
