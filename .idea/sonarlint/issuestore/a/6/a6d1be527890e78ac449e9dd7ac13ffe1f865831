@@ -1,0 +1,17 @@
+
+o
+java:S1104	"RMake person a static final constant or non-public and provide accessors if needed.(ÚšÍ¹8”…ä–É1
+v
+java:S1104
+"TMake bankCard a static final constant or non-public and provide accessors if needed.(ˆŸÈ¥úÿÿÿÿ8”…ä–É1
+m
+java:S1104"PMake good a static final constant or non-public and provide accessors if needed.(½ÅÎ‚8”…ä–É1
+v
+java:S1104"TMake quantity a static final constant or non-public and provide accessors if needed.(Éô£ßýÿÿÿÿ8”…ä–É1
+l
+java:S1104"OMake sum a static final constant or non-public and provide accessors if needed.(åÆ´¤8”…ä–É1
+|
+java:S1104"ZMake timeOfPurchase a static final constant or non-public and provide accessors if needed.(ÞÑ³Íüÿÿÿÿ8”…ä–É1
+r
+java:S1104"UMake remainder a static final constant or non-public and provide accessors if needed.(‹‰Æâ8”…ä–É1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ð…÷ö8•…ä–É1
